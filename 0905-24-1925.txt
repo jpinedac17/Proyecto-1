@@ -1,0 +1,10 @@
+1. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?  
+    A utilizar los comandos principales para poder colaborar con otra persona editando y modificando un repositorio en github
+
+2. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+    Tuvimos algunos conflictos al inicio al intentar editar el mismo archivo al mismo tiempo, lo resolvimos investigando y descubrimos que dos personas no pueden editar la misma línea de un archivo al mismo tiempo
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+    Las principales ventajas son: poder tener un historial de versiones de nuestro proyecto y poder trabajar de forma colaborativa con más personas al mismo tiempo
