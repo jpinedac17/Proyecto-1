@@ -1,0 +1,12 @@
+¿QUE APRENDISTE SOBRE EL FLUJO DE TRABAJO CON GIT Y GITHUB?
+es una herramienta muy comoda la cual facilita el trabajo en grupo, tambien es en cierta medida muy privado para ciertos proyectos
+¿COMO FUE LA EXPERIENCIA DE TRABAJAR EN PAREJAS?
+bastante util ya que ibamos muy de la mano sobre cualquier conflicto que se presentaba o duda 
+¿ENCONTRASTE ALGUN CONFLICTO? Y ¿COMO LO RESOLVISTE?
+hubieron varios empesando por que se nos olvido actualizar la copia del repositorio lo cual hizo que no dejara subir mi archivo ya que no era el actualizado 
+se soluciono haciendo un "git push force" lo cual entendi que forzaba subir la copia que yo tenia aun aliminando algunos datos de la anterior lo cual no es recomendable por que perdes el trabajo de alguien mas seguramente hay 
+alguna otra forma pero falta investigar y apreder mas de git
+OTRO ERROR FUE QUE..
+no se conectaba a mi cuenta de git cosa que toco sacar un token el cual se busca en opcciones y ahi se crea y ya sirve para 30 dias para entrar sin usuario o contraceña ya que ahi mismo hay un apartado para tokens
+¿QUE VENTAJAS CREES QUE TIENE GIT EN PROYECTOS DE PROGRAMACION?
+permite trabajar a varios compañeros en simultaneo sin atrasar el trabajo, tambien permite experimentar sin miedo a arruinar el proyecto ya que puedes trabajar en una rama y no en el main 
